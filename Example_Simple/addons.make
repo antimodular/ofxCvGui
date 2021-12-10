@@ -1,0 +1,6 @@
+ofxAssets
+ofxLiquidEvent
+ofxGrabCam
+ofxCvGui
+ofxSingleton
+ofxTextInputField

@@ -1,5 +1,7 @@
 #pragma once
 
+#define HAS_OFXGRABCAM
+
 #include "ofMain.h"
 #include "ofxCvGui.h"
 
